@@ -55,3 +55,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/bin
